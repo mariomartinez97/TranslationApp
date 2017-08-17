@@ -1,0 +1,8 @@
+"este"|"This"
+"es"|"is"
+"un"|"a"
+"prueba"|"test"
+"para"|"to"
+"sacar"|"draw"
+"palabras"|"words"
+"ejercicios"|"excercise"

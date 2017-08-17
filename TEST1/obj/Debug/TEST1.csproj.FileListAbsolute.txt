@@ -1,0 +1,9 @@
+D:\Archivos\M4\TRADUCTOR\TEST1\TEST1\bin\Debug\TEST1.exe.config
+D:\Archivos\M4\TRADUCTOR\TEST1\TEST1\bin\Debug\TEST1.exe
+D:\Archivos\M4\TRADUCTOR\TEST1\TEST1\bin\Debug\TEST1.pdb
+D:\Archivos\M4\TRADUCTOR\TEST1\TEST1\obj\Debug\TEST1.csprojResolveAssemblyReference.cache
+D:\Archivos\M4\TRADUCTOR\TEST1\TEST1\obj\Debug\TEST1.Form1.resources
+D:\Archivos\M4\TRADUCTOR\TEST1\TEST1\obj\Debug\TEST1.Properties.Resources.resources
+D:\Archivos\M4\TRADUCTOR\TEST1\TEST1\obj\Debug\TEST1.csproj.GenerateResource.Cache
+D:\Archivos\M4\TRADUCTOR\TEST1\TEST1\obj\Debug\TEST1.exe
+D:\Archivos\M4\TRADUCTOR\TEST1\TEST1\obj\Debug\TEST1.pdb
