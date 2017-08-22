@@ -45,7 +45,8 @@ namespace TEST1
                 dataGridView1.Rows.Add(diccionario[kvp.Key].palabra, diccionario[kvp.Key].traduccion);
             }
 
-            
+            //diccionario.ContainsValue()
+
 
         }
 
@@ -54,5 +55,17 @@ namespace TEST1
             
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (diccionario.ContainsKey(textBox1.Text))
+            {
+                textBox2.Text = textBox1.Text;
+            }
+            else
+            {
+                textBox2.Text = "The word doesnt exist";
+            }
+            //textBox1.Text
+        }
     }
 }
